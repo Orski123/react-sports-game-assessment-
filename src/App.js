@@ -5,6 +5,7 @@ import Scoreboard from './components/scoreboard/Scoreboard'
 import Team from './components/team/Team'
 
 
+
 function App(props) {
   const raccoons = {
     name: 'Russiaville Raccoons',
